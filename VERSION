@@ -1,0 +1,15 @@
+PDF2TNS v1.0
+Created: 2025-11-25
+For: TI-Nspire CX/CAS (OS 4.4+)
+
+Features:
+- PDF to TNS conversion
+- Formatted text (headlines, bullets)
+- Scrollable documents
+- Batch processing
+- Linux compatible (no proprietary software)
+
+Tools:
+- Luna (TNS generator)
+- pdftotext (text extraction)
+- Python 3 (formatting)
